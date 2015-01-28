@@ -1,0 +1,587 @@
+{
+  "http://elifesciences.org/content/3/e03080": {
+    "publisher": {
+      "value": [
+        "eLife Sciences Publications Limited"
+      ]
+    },
+    "journal": {
+      "value": [
+        "eLife"
+      ]
+    },
+    "title": {
+      "value": [
+        "Cryo-EM structure of the Plasmodium falciparum 80S ribosome bound to the anti-protozoan drug emetine"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Wilson Wong",
+        "Xiao-chen Bai",
+        "Alan Brown",
+        "Israel S Fernandez",
+        "Eric Hanssen",
+        "Melanie Condron",
+        "Yan Hong Tan",
+        "Jake Baum",
+        "Sjors HW Scheres"
+      ]
+    },
+    "date": {
+      "value": [
+
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7554/eLife.03080"
+      ]
+    },
+    "volume": {
+      "value": [
+        "3"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e03080"
+      ]
+    },
+    "description": {
+      "value": [
+        "eLife - Open access to the most promising advances in science"
+      ]
+    },
+    "abstract": {
+      "value": [
+
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://elifesciences.org/content/elife/3/e03080.full.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "http://elifesciences.org/content/3/e03080.source.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+
+      ]
+    },
+    "figure_caption": {
+      "value": [
+
+      ]
+    },
+    "license": {
+      "value": [
+        ""
+      ]
+    },
+    "copyright": {
+      "value": [
+        ""
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.pdf": "851eb256466737ecd1de664e99151b1e"
+      },
+      {
+        "fulltext.xml": "8e51231098b99ae7a87e9f635e0ffb18"
+      }
+    ]
+  },
+  "http://elifesciences.org/content/3/e02137": {
+    "publisher": {
+      "value": [
+        "eLife Sciences Publications Limited"
+      ]
+    },
+    "journal": {
+      "value": [
+        "eLife"
+      ]
+    },
+    "title": {
+      "value": [
+        "The quantitative architecture of centromeric chromatin"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Dani L Bodor",
+        "João F Mata",
+        "Mikhail Sergeev",
+        "Ana Filipa David",
+        "Kevan J Salimian",
+        "Tanya Panchenko",
+        "Don W Cleveland",
+        "Ben E Black",
+        "Jagesh V Shah",
+        "Lars ET Jansen"
+      ]
+    },
+    "date": {
+      "value": [
+
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7554/eLife.02137"
+      ]
+    },
+    "volume": {
+      "value": [
+        "3"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e02137"
+      ]
+    },
+    "description": {
+      "value": [
+        "eLife - Open access to the most promising advances in science"
+      ]
+    },
+    "abstract": {
+      "value": [
+
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://elifesciences.org/content/elife/3/e02137.full.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "http://elifesciences.org/content/3/e02137.source.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+
+      ]
+    },
+    "figure_caption": {
+      "value": [
+
+      ]
+    },
+    "license": {
+      "value": [
+        ""
+      ]
+    },
+    "copyright": {
+      "value": [
+        ""
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.pdf": "99eeed6d3488672365d3ccaabcc828b0"
+      },
+      {
+        "fulltext.xml": "9b1d02beb7f46567507afb00b746698b"
+      }
+    ]
+  },
+  "http://elifesciences.org/content/3/e02349": {
+    "publisher": {
+      "value": [
+        "eLife Sciences Publications Limited"
+      ]
+    },
+    "journal": {
+      "value": [
+        "eLife"
+      ]
+    },
+    "title": {
+      "value": [
+        "tRNA synthetase counteracts c-Myc to develop functional vasculature"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Yi Shi",
+        "Xiaoling Xu",
+        "Qian Zhang",
+        "Guangsen Fu",
+        "Zhongying Mo",
+        "George S Wang",
+        "Shuji Kishi",
+        "Xiang-Lei Yang"
+      ]
+    },
+    "date": {
+      "value": [
+
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7554/eLife.02349"
+      ]
+    },
+    "volume": {
+      "value": [
+        "3"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e02349"
+      ]
+    },
+    "description": {
+      "value": [
+        "eLife - Open access to the most promising advances in science"
+      ]
+    },
+    "abstract": {
+      "value": [
+
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://elifesciences.org/content/elife/3/e02349.full.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "http://elifesciences.org/content/3/e02349.source.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+
+      ]
+    },
+    "figure_caption": {
+      "value": [
+
+      ]
+    },
+    "license": {
+      "value": [
+        ""
+      ]
+    },
+    "copyright": {
+      "value": [
+        ""
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.pdf": "7d8c1c8c30073ee4835035f0edab70a6"
+      },
+      {
+        "fulltext.xml": "9de87984f8608b2fa85d50cd99064194"
+      }
+    ]
+  },
+  "http://elifesciences.org/content/3/e00590": {
+    "publisher": {
+      "value": [
+        "eLife Sciences Publications Limited"
+      ]
+    },
+    "journal": {
+      "value": [
+        "eLife"
+      ]
+    },
+    "title": {
+      "value": [
+        "Extinction risk and conservation of the world’s sharks and rays"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Nicholas K Dulvy",
+        "Sarah L Fowler",
+        "John A Musick",
+        "Rachel D Cavanagh",
+        "Peter M Kyne",
+        "Lucy R Harrison",
+        "John K Carlson",
+        "Lindsay NK Davidson",
+        "Sonja V Fordham",
+        "Malcolm P Francis",
+        "Caroline M Pollock",
+        "Colin A Simpfendorfer",
+        "George H Burgess",
+        "Kent E Carpenter",
+        "Leonard JV Compagno",
+        "David A Ebert",
+        "Claudine Gibson",
+        "Michelle R Heupel",
+        "Suzanne R Livingstone",
+        "Jonnell C Sanciangco",
+        "John D Stevens",
+        "Sarah Valenti",
+        "William T White"
+      ]
+    },
+    "date": {
+      "value": [
+
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7554/eLife.00590"
+      ]
+    },
+    "volume": {
+      "value": [
+        "3"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e00590"
+      ]
+    },
+    "description": {
+      "value": [
+        "eLife - Open access to the most promising advances in science"
+      ]
+    },
+    "abstract": {
+      "value": [
+
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://elifesciences.org/content/elife/3/e00590.full.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "http://elifesciences.org/content/3/e00590.source.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+
+      ]
+    },
+    "figure_caption": {
+      "value": [
+
+      ]
+    },
+    "license": {
+      "value": [
+        ""
+      ]
+    },
+    "copyright": {
+      "value": [
+        ""
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.pdf": "0346be2f1154e0bd608459b19682a08b"
+      },
+      {
+        "fulltext.xml": "4890527e549d9f9ee3f8ec22ea06f414"
+      }
+    ]
+  },
+  "http://elifesciences.org/content/2/e00747": {
+    "publisher": {
+      "value": [
+        "eLife Sciences Publications Limited"
+      ]
+    },
+    "journal": {
+      "value": [
+        "eLife"
+      ]
+    },
+    "title": {
+      "value": [
+        "Evolutionary dynamics of cancer in response to targeted combination therapy"
+      ]
+    },
+    "authors": {
+      "value": [
+        "Ivana Bozic",
+        "Johannes G Reiter",
+        "Benjamin Allen",
+        "Tibor Antal",
+        "Krishnendu Chatterjee",
+        "Preya Shah",
+        "Yo Sup Moon",
+        "Amin Yaqubie",
+        "Nicole Kelly",
+        "Dung T Le",
+        "Evan J Lipson",
+        "Paul B Chapman",
+        "Luis A Diaz, Jr",
+        "Bert Vogelstein",
+        "Martin A Nowak"
+      ]
+    },
+    "date": {
+      "value": [
+
+      ]
+    },
+    "doi": {
+      "value": [
+        "10.7554/eLife.00747"
+      ]
+    },
+    "volume": {
+      "value": [
+        "2"
+      ]
+    },
+    "issue": {
+      "value": [
+
+      ]
+    },
+    "firstpage": {
+      "value": [
+        "e00747"
+      ]
+    },
+    "description": {
+      "value": [
+        "eLife - Open access to the most promising advances in science"
+      ]
+    },
+    "abstract": {
+      "value": [
+
+      ]
+    },
+    "fulltext_html": {
+      "value": [
+
+      ]
+    },
+    "fulltext_pdf": {
+      "value": [
+        "http://elifesciences.org/content/elife/2/e00747.full.pdf"
+      ]
+    },
+    "fulltext_xml": {
+      "value": [
+        "http://elifesciences.org/content/2/e00747.source.xml"
+      ]
+    },
+    "supplementary_material": {
+      "value": [
+
+      ]
+    },
+    "figure": {
+      "value": [
+
+      ]
+    },
+    "figure_caption": {
+      "value": [
+
+      ]
+    },
+    "license": {
+      "value": [
+        ""
+      ]
+    },
+    "copyright": {
+      "value": [
+        ""
+      ]
+    },
+    "file_hashes": [
+      {
+        "fulltext.pdf": "c8e8c52362bbb1663c7d4c98cfbd0a56"
+      },
+      {
+        "fulltext.xml": "77ac1d3b2d9bb7ba0c55daa06bf63e3e"
+      }
+    ]
+  }
+}
